@@ -1,0 +1,2 @@
+# swhTool
+Tool for ShopWare
